@@ -45,3 +45,4 @@ The project is designed to deliver a comprehensive sales report, allowing the Sa
 
 ### Conclusion:
 The project transformed raw sales data into a well-structured and normalized star schema, which was integrated into Power BI for dynamic visualization. The additional DimDate table and Measure Table in Power BI allow for more sophisticated time-based analyses and calculation of key metrics. The final interactive dashboard gives the Sales Director actionable insights into sales performance trends over time and provides a detailed breakdown of product and customer data.
+![image](https://github.com/user-attachments/assets/ff256142-59f8-40b8-b34d-dd86b443285f)

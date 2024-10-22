@@ -1,5 +1,5 @@
 # Sales Data Trend Analysis and Reporting
-
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMzlmZWYxNWQtZDFlMi00ZTRmLWFkMTgtNTU5YzAzZTE1Zjc1IiwidCI6ImU5ZDA5MDNlLTZiMDEtNGEzZi1iY2U2LTNhMTU5NzRjODg1MSJ9&pageName=20b49e8b08610a7da768" class="button">Dashbord_linkk</a>
 The project is designed to deliver a comprehensive sales report, allowing the Sales Director to analyze sales trends over time, discover patterns, and assess dependencies within the data. The workflow involved processing raw sales data, normalizing it into a star schema, creating measures for key metrics, and visualizing the insights through an interactive dashboard in Power BI.
 
 ### Project Steps:
